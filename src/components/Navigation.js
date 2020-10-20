@@ -6,7 +6,6 @@ class Navigation extends React.Component{
         return(
            <div className='navigation-container'>
                <Link exact to='/' className='link-name'>Vasilis Drettas</Link>
-               <Link to='/aboutme' className='link'>About Me</Link>
                <Link to='/projects' className='link'>Projects</Link>
                <Link to='/contact' className='link'>Contact</Link>
            </div>
