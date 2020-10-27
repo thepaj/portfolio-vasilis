@@ -15,7 +15,7 @@ class Home extends React.Component{
                     </div>
                 </div>
                 <div className='button-container'>
-                    <button className='btn'>GET MY CV</button>
+                    <a href="https://github.com/billDrett" target="_blank" rel="noopener noreferrer" className='btn btn-main'>GET MY CV</a>
                 </div>
             </div>
         )
