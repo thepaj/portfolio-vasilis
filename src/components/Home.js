@@ -6,9 +6,8 @@ class Home extends React.Component{
             <div className='content-container'>
                 <div>
                     <div className='main-title'>
-                        Hi! <br />
-                        I'm Vasilis. <br/>
-                        A back-end developer.
+                       Vasilis Drettas.<br/>
+                       A back-end developer.
                     </div>
                     <div className='main-paragraph'>
                         I am a back-end developer based in Berlin, passionate about C++, Android and Python.
